@@ -27,3 +27,4 @@ methodological decisions and interpretation of results are my own.
 ### Contact
 
 Open to opportunities in Markets, Risk and Middle Office.
+[LinkedIn](https://www.linkedin.com/in/lucas-barga-60152823a/)
