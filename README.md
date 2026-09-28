@@ -1,30 +1,37 @@
 ## Lucas Barga
 
-**Finance · Markets & Risk · Agricultural Derivatives**
+**Finanzas · Mercados y Riesgo · Derivados agrícolas**
 Rosario, Argentina
 
-Finance student at Universidad Siglo 21 with operational experience in grain trading
-(purchase contracts, settlements and validation). Training in futures, options and hedging
-strategies at the Bolsa de Comercio de Rosario. Focused on market risk, derivatives and
-agricultural commodities.
+Estudiante de la Licenciatura en Finanzas (Universidad Siglo 21) con experiencia operativa en
+comercialización de granos (contratos de compra, liquidaciones y validación). Formación en
+futuros, opciones y estrategias de cobertura en la Bolsa de Comercio de Rosario. Me enfoco en
+riesgo de mercado, derivados y commodities agrícolas.
 
-### Featured project
+### Proyecto destacado
 
-**[CoberturasAgro](https://github.com/barga-lucas/CoberturasAgro)**: an evaluation of hedging
-strategies for a Rosario soybean elevator using A3 Mercados futures and options (2020–2026).
-It covers basis risk, hedge effectiveness, minimum-variance hedge ratios, collars and
-put-call parity, with season-level bootstrap confidence intervals. Python, pandas, pytest.
+**[CoberturasAgro](https://github.com/barga-lucas/CoberturasAgro)**: evaluación de estrategias
+de cobertura para un acopio de soja de Rosario con futuros y opciones de A3 Mercados
+(2020–2026). Analiza riesgo de base, efectividad de la cobertura, ratio de cobertura de mínima
+varianza, collars y paridad put-call, con intervalos de confianza por bootstrap de campañas.
+Python, pandas, pytest.
 
-### Tools
+### Herramientas
 
 Python (pandas, NumPy, matplotlib, pytest) · Excel · Git
 
-### Note
+### Nota
 
-Code developed with AI coding assistants (Claude Code, Codex). The research design,
-methodological decisions and interpretation of results are my own.
+El código se desarrolló con asistentes de programación con IA (Claude Code, Codex). El diseño
+de la investigación, las decisiones metodológicas y la interpretación de los resultados son
+míos.
 
-### Contact
+### Contacto
 
-Open to opportunities in Markets, Risk and Middle Office.
+Abierto a oportunidades en Mercados, Riesgo y Middle Office.
 [LinkedIn](https://www.linkedin.com/in/lucas-barga-60152823a/)
+
+---
+
+*Finance student in Rosario, Argentina, focused on markets, risk and agricultural derivatives.
+Projects are documented in Spanish, with English translations.*
